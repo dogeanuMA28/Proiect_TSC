@@ -128,6 +128,3 @@ folosesc drill size mai mic de 0.3mm cum precizeaza rule-urile.
 ### smd-hole
 Problema vine de la USB. Tot designul este prblema. Nu am stiut cum sa rezolv aceasta problema fara sa modific
 efectiv designul componentei.
-
-### air-wire
-Am ales sa ignor acesta eroare ca sa nu trag via-uri perin nRF52840 sau sa trag fire pe sub el.
